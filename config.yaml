@@ -4,6 +4,11 @@ title: "Wenjie's Blog"
 theme: "hugo-tania"
 paginate: 6
 
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+
 disqusShortname: https-hugo-tania-netlify-app
 
 params:
