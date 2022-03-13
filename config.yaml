@@ -1,6 +1,6 @@
-baseurl: "https://example.com"
+baseurl: "https://wenjie-tu.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Tania"
+title: "Wenjie's Blog"
 theme: "hugo-tania"
 paginate: 6
 
@@ -36,16 +36,16 @@ params:
   # Show your socail information with icon on index bio with `_index.md` content.
   socialOptions:
     dev-to:
-    email:
+    email: wenjie.tu@uzh.ch
     facebook:
-    github:
+    github: https://github.com/wenjie-tu
     instagram:
-    linkedin:
+    linkedin: https://www.linkedin.com/in/wenjie-tu
     medium:
     stack-overflow:
     steam:
     telegram:
-    twitter:
+    twitter: https://twitter.com/WenjieTu2?s=09
     twitch:
     whatsapp:
   
